@@ -2,7 +2,7 @@
 
 This project analyzes geotagged Twitter data from 2020 to study coronavirus-related hashtag usage across languages, countries, and time.
 
-The dataset contains approximately 1.1 billion geotagged tweets. A MapReduce-style workflow is used to process daily tweet files in parallel and combine the results.
+The dataset contains approximately 1.1 billion geotagged tweets from 2020. The analysis processes daily tweet files, aggregates hashtag counts by language and country, and creates visualizations showing both geographic patterns and changes in hashtag usage over time.
 
 ## Project Structure
 
