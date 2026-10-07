@@ -31,11 +31,11 @@ The dataset contains approximately 1.1 billion geotagged tweets from 2020. The a
 
 ![Coronavirus by Country](img/reduce.country.coronavirus.png)
 
-### #코로나바이러스 by Language
+### #코로나바이러스 (#coronavirus in Korean) by Language
 
 ![Korean Coronavirus Hashtag by Language](img/reduce.lang.코로나바이러스.png)
 
-### #코로나바이러스 by Country
+### #코로나바이러스 (#coronavirus in Korean) by Country
 
 ![Korean Coronavirus Hashtag by Country](img/reduce.country.코로나바이러스.png)
 
