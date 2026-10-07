@@ -25,22 +25,22 @@ The dataset contains approximately 1.1 billion geotagged tweets. A MapReduce-sty
 
 ### #coronavirus by Language
 
-![Coronavirus by Language](src/reduce.lang.coronavirus.png)
+![Coronavirus by Language](img/reduce.lang.coronavirus.png)
 
 ### #coronavirus by Country
 
-![Coronavirus by Country](src/reduce.country.coronavirus.png)
+![Coronavirus by Country](img/reduce.country.coronavirus.png)
 
 ### #코로나바이러스 by Language
 
-![Korean Coronavirus Hashtag by Language](src/reduce.lang.코로나바이러스.png)
+![Korean Coronavirus Hashtag by Language](img/reduce.lang.코로나바이러스.png)
 
 ### #코로나바이러스 by Country
 
-![Korean Coronavirus Hashtag by Country](src/reduce.country.코로나바이러스.png)
+![Korean Coronavirus Hashtag by Country](img/reduce.country.코로나바이러스.png)
 
 ### Hashtag Usage Over Time
 
-![Hashtag Usage Over Time](src/alternative_reduce.png)
+![Hashtag Usage Over Time](img/alternative_reduce.png)
 
 
